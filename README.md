@@ -1,16 +1,28 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**armelsoubeiga/armelsoubeiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here, take a look at my stuff!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
--->
+
+- 🖥️ I have a mildly interesting [website](https://armelsoubeiga.github.io/)
+- ✨ I love the Rshiny, Django, Flask framework, my apps can be found [here](https://armelsoubeiga.github.io/work.html)
+- 📰 I try to maintain this Data Science Blog [DataScience & AI Blog](https://armelsoubeiga.pythonanywhere.com/)
+- 💡 I'm part of the [Rinterface Group](https://github.com/Rinterface/)
+- 💖 I'm on [buymeacoffee](https://www.buymeacoffee.com/armelsoubeiga)
+- 📚 I'm currently writing a book on web scraping
+
+__Social__
+
+[![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com/ArmelSoubeiga)](https://twitter.com/ArmelSoubeiga)
+[![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/armel-soubeiga/)](https://www.linkedin.com/in/armel-soubeiga/)
+
+__Tech__
+
+[![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
+[![Python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=python&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
+[![Spark](https://img.shields.io/badge/-programming-black?style=flat-square&logo=spark&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
+[![SAS](https://img.shields.io/badge/-programming-black?style=flat-square&logo=sas&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
+[![Mysql](https://img.shields.io/badge/-programming-black?style=flat-square&logo=mysql&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/JohnCoene/)](https://github.com/JohnCoene/)
+![Nosql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=nosql&link=https://github.com/JohnCoene/)
+
