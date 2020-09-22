@@ -20,9 +20,9 @@ __Tech__
 
 [![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
 [![Python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=python&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
-[![Spark](https://img.shields.io/badge/-programming-black?style=flat-square&logo=spark&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
-[![SAS](https://img.shields.io/badge/-programming-black?style=flat-square&logo=sas&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
-[![Mysql](https://img.shields.io/badge/-programming-black?style=flat-square&logo=mysql&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/JohnCoene/)](https://github.com/JohnCoene/)
-![Nosql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=nosql&link=https://github.com/JohnCoene/)
+[![Spark](https://img.shields.io/badge/Spark-BigData%20Programming-yellow)](https://github.com/armelsoubeiga)
+[![SAS](https://img.shields.io/badge/SAS-programming-brightgreen)](https://github.com/armelsoubeiga)
+[![Mysql](https://img.shields.io/badge/Mysql-Mysql-orange)](https://github.com/armelsoubeiga)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
+![Nosql](https://img.shields.io/badge/-Nosql-black?style=flat-square&logo=nosql&link=https://github.com/armelsoubeiga)
 
