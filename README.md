@@ -4,7 +4,7 @@ Here, take a look at my stuff!
 
 
 
-- 🖥️ I have a mildly interesting [website](https://armelsoubeiga.github.io/)
+- 🖥️ I have a mildly interesting [armelsoubeiga.com](https://armelsoubeiga.github.io/)
 - ✨ I love the Rshiny, Django, Flask framework, my apps can be found [here](https://armelsoubeiga.github.io/work.html)
 - 📰 I try to maintain this Data Science Blog [DataScience & AI Blog](https://armelsoubeiga.pythonanywhere.com/)
 - 💡 I'm part of the [Rinterface Group](https://github.com/Rinterface/)
