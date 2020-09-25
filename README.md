@@ -2,7 +2,7 @@
 
 Here, take a look at my stuff!
 
-<img align="right" src="https://raw.githubusercontent.com/armelsoubeiga/armelsoubeiga/master/00.png" width="150px" style="width:100px;"/>
+<img align="right" src="https://raw.githubusercontent.com/armelsoubeiga/armelsoubeiga/master/00.PNG" width="150px" style="width:100px;"/>
 
 - 🖥️ I have a mildly interesting [armelsoubeiga.com](https://armelsoubeiga.github.io/)
 - ✨ I love the Rshiny, Django, Flask framework, my apps can be found [here](https://armelsoubeiga.github.io/work.html)
