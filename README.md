@@ -21,6 +21,6 @@ __Tech__
 [![Python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=python&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
 [![Spark](https://img.shields.io/badge/Spark-BigData-yellow)](https://github.com/armelsoubeiga)
 [![SAS](https://img.shields.io/badge/SAS-programming-brightgreen)](https://github.com/armelsoubeiga)
-[![BDD](https://img.shields.io/badge/Mysql-Nosql-blue)](https://github.com/armelsoubeiga)
+[![BDD](https://img.shields.io/badge/BDD-Mysql-Nosql-blue)](https://github.com/armelsoubeiga)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
 
