@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-I am Armel, Senior Data Scientist and AI DevOps, currently based in [France, Lyon] (https://www.rhone.fr/). I have a passion for problem solving in a beautiful and light way, and when I'm not coding you can find me watching movies or reading.
+I am Armel, Senior Data Scientist and AI DevOps, currently based in France, Lyon [](https://www.rhone.fr/). I have a passion for problem solving in a beautiful and light way, and when I'm not coding you can find me watching movies or reading.
 
  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"> __Here, take a look at my stuff!__
 
