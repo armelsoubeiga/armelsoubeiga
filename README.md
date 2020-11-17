@@ -2,7 +2,7 @@
 
 I am Armel, Senior Data Scientist and AI DevOps, currently based in [France, Lyon] (https://www.rhone.fr/). I have a passion for problem solving in a beautiful and light way, and when I'm not coding you can find me watching movies or reading.
 
- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Here, take a look at my stuff!
+ <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"> Here, take a look at my stuff!
 
 <img align="right" src="https://raw.githubusercontent.com/armelsoubeiga/armelsoubeiga/master/00.png" width="150px" style="width:100px;"/>
 
