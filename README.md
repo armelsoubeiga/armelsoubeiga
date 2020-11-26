@@ -7,7 +7,7 @@ I am Armel, Senior Data Scientist and AI DevOps, currently based in France, Lyon
 <img align="right" src="https://raw.githubusercontent.com/armelsoubeiga/armelsoubeiga/master/00.png" width="150px" style="width:100px;"/>
 
 - 🖥️ I have a mildly interesting [armelsoubeiga.com](https://armelsoubeiga.github.io/) website
-- ✨ I love the Rshiny, Django, Flask frameworks, my apps can be found [here](https://armelsoubeiga.github.io/work.html)
+- ✨ I love the TensorFlow, Scikit-Learn, Rshiny, Django, Flask frameworks, my works can be found [here](https://armelsoubeiga.github.io/work.html)
 - 📰 I try to maintain this Data Science Blog [DataScience & AI Blog](https://armelsoubeiga.pythonanywhere.com/)
 - 💖 I'm on [buymeacoffee](https://www.buymeacoffee.com/armelsoubeiga)
 - 📚 I'm currently writing a book on web scraping
