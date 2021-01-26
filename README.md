@@ -21,17 +21,24 @@ __Wanna learn more about me? Check out my website!__
 
 [![Website Badge](https://img.shields.io/badge/-My_Website-162c3a?style=flat-square&labelColor=162c3a&logo=react)](https://armelsoubeiga.github.io/)
 
+__Tools__
+
+<code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code>
+<code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg"></code>
+<code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg"></code>
+<code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
+<code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/spark.svg"></code>
+
+
 __Tech__
 
 [![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
 [![Python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=python&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
-[![Spark](https://img.shields.io/badge/Spark-BigData-yellow)](https://github.com/armelsoubeiga)
+[![Spark](https://img.shields.io/badge/Spark-programming-yellow)](https://github.com/armelsoubeiga)
 [![SAS](https://img.shields.io/badge/SAS-programming-brightgreen)](https://github.com/armelsoubeiga)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <br>
 
