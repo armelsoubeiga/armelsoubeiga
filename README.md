@@ -23,18 +23,18 @@ __Wanna learn more about me? Check out my website!__
 
 __Tools__
 
-<code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code>
-<code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg"></code>
-<code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg"></code>
-<code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
-<code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/spark.svg"></code>
+<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code>
+<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg"></code>
+<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg"></code>
+<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
+<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/spark.svg"></code>
 
 
 __Tech__
 
 [![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
 [![Python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=python&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
-![SQL](https://img.shields.io/badge/-SQL-programming-black?style=flat-square&logo=sql)
+![SQL](https://img.shields.io/badge/SQL-programming-black?style=flat-square&logo=sql)
 [![SAS](https://img.shields.io/badge/SAS-programming-brightgreen)](https://github.com/armelsoubeiga)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
