@@ -32,8 +32,8 @@ __Tools__
 
 __Tech__
 
-[![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
 [![Python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=python&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
+[![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
 ![SQL](https://img.shields.io/badge/SQL-programming-black?style=flat-square&logo=sql)
 [![SAS](https://img.shields.io/badge/SAS-programming-black)](https://github.com/armelsoubeiga)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
