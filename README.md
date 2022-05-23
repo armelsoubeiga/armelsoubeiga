@@ -1,6 +1,6 @@
 ## Welcome 👋
 
- I’m currently a student in Machine Learning à LIMOS.
+ I’m currently a PhD student in Machine Learning à LIMOS.
 
  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"> __Here, take a look at my stuff!__
 
