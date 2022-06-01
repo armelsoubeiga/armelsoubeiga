@@ -2,7 +2,7 @@
 
  I’m currently a PhD student in Machine Learning.
 
- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"> __Here, take a look at my stuff!__
+ <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="5px"> __Here, take a look at my stuff!__
 
 <img align="right" src="https://raw.githubusercontent.com/armelsoubeiga/armelsoubeiga/master/00.png" width="150px" style="width:100px;"/>
 
