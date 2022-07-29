@@ -10,7 +10,7 @@
 - ✨ I love the TensorFlow, Scikit-Learn, keras, Rshiny, Django, Flask frameworks, my works can be found [here](https://armelsoubeiga.github.io/work.html)
 - 📰 I try to maintain this Data Science Blog [DataScience & AI Blog](https://armelsoubeiga.pythonanywhere.com/)
 - 💖 I'm on [buymeacoffee](https://www.buymeacoffee.com/armelsoubeiga)
-- 📚 I'm currently writing a book on web scraping
+- 📚  I wrote [web scraping with R](https://www.amazon.fr/dp/B0B6XGTXKP)
 
 __Wanna chat? You can find me here:__
 
