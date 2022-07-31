@@ -11,7 +11,7 @@
 - 💖 I'm on [buymeacoffee](https://www.buymeacoffee.com/armelsoubeiga)
 - 📚  I wrote [web scraping with R](https://www.amazon.fr/dp/B0B6XGTXKP)
 
-__Wanna chat? You can find me here:__
+__You can find me here:__
 
 [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com/ArmelSoubeiga)](https://twitter.com/ArmelSoubeiga)
 [![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/armel-soubeiga/)](https://www.linkedin.com/in/armel-soubeiga/)
