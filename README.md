@@ -11,22 +11,13 @@
 - 💖 I'm on [buymeacoffee](https://www.buymeacoffee.com/armelsoubeiga)
 - 📚  I wrote [web scraping with R](https://www.amazon.fr/dp/B0B6XGTXKP)
 
-__You can find me here:__
-
-[![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com/ArmelSoubeiga)](https://twitter.com/ArmelSoubeiga)
-[![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/armel-soubeiga/)](https://www.linkedin.com/in/armel-soubeiga/)
-
-
-__Tools__
+__Tools__ & __Tech__
 
 <code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code>
 <code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg"></code>
 <code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg"></code>
 <code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
 <code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/spark.svg"></code>
-
-
-__Tech__
 
 [![Python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=python&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
 [![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
