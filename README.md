@@ -1,13 +1,13 @@
 ## Welcome 👋
 
- I’m currently a PhD student in Machine Learning.
+ I’m currently a PhD candidate in Machine Learning.
 
  __Here, take a look at my stuff!__
 
 <img align="right" src="https://raw.githubusercontent.com/armelsoubeiga/armelsoubeiga/master/00.png" width="150px" style="width:100px;"/>
+<img align="right" src="https://github.com/armelsoubeiga/evclust/blob/aade87efb463a0222210f63e274d093922d506bf/docs/assets/logo.png" width="150px" style="width:100px;"/>
 
-- 🖥️ I have a mildly interesting [armelsoubeiga.com](https://armelsoubeiga.github.io/) website
-- 📰 I try to maintain this Data Science Blog [DataScience & AI Blog](https://armelsoubeiga.pythonanywhere.com/)
+- 🖥️ I have a mildly interesting [armelsoubeiga.github.io](https://armelsoubeiga.github.io/) website
 - 💖 I'm on [buymeacoffee](https://www.buymeacoffee.com/armelsoubeiga)
 - 📚  I wrote [web scraping with R](https://www.amazon.fr/dp/B0B6XGTXKP)
 
