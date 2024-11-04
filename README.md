@@ -5,7 +5,7 @@
  __Here, take a look at my stuff!__
 
 <img align="right" src="https://raw.githubusercontent.com/armelsoubeiga/armelsoubeiga/master/00.png" width="150px" style="width:100px;"/>
-<img align="right" src="https://github.com/armelsoubeiga/evclust/blob/aade87efb463a0222210f63e274d093922d506bf/docs/assets/logo.png" width="100px" style="width:50px;"/>
+<img align="right" src="https://github.com/armelsoubeiga/evclust/blob/aade87efb463a0222210f63e274d093922d506bf/docs/assets/logo.png" width="100px" style="width:60px;"/>
 
 - 🖥️ I have a mildly interesting [armelsoubeiga.github.io](https://armelsoubeiga.github.io/) website
 - 💖 I'm on [buymeacoffee](https://www.buymeacoffee.com/armelsoubeiga)
