@@ -1,6 +1,6 @@
 ## Welcome 👋
 
- I’m currently a PhD candidate in Machine Learning.
+ I’m currently a Machine Learning, GenAI Engineer.
 
  __Here, take a look at my stuff!__
 
